@@ -1,0 +1,6 @@
+{
+  "name": "AgriSmart Nakuru",
+  "description": "Precision agricultural profiling, ML crop recommendation, and computer vision crop health scanner for farmers in Elmenteita, Nakuru County, Kenya.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
